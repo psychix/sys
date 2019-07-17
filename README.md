@@ -1,3 +1,4 @@
+# fork from golang standlib for reading
 # sys
 
 This repository holds supplemental Go packages for low-level interactions with
